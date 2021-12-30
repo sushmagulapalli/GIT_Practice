@@ -1,0 +1,11 @@
+This is a new file added
+
+- Java
+- Selenium
+- BDD
+- Streams
+- Maven
+- GIT
+- Postman
+- SOAP UI
+- Testing
