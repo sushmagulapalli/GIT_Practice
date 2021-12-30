@@ -1,0 +1,7 @@
+Hello World!
+
+I am doing good
+
+I am not good is wrong
+
+Changing the file after git initialise
